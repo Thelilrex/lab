@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrangeApp</string>
+    <string name="ButtonTree">Tap the orange tree to select an orange</string>
+    <string name="ButtonOrange">Keep tapping the orange to squeeze it</string>
+    <string name="ButtonDrink">Tap the orange juice to drink it</string>
+    <string name="ButtonEmpty">Tap the empty glass to start again</string>
+</resources>
